@@ -1,0 +1,1 @@
+Yes, some material about GitHub was new to me. I wasn't aware of how GitHub's version control and collaboration features could be leveraged to manage team projects more effectively. I also learned about the importance of commit messages in tracking code changes.
